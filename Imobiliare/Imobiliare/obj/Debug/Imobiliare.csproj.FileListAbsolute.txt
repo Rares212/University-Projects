@@ -1,0 +1,12 @@
+D:\Development\BD Imobiliare\Imobiliare\Imobiliare\bin\Debug\Imobiliare.exe.config
+D:\Development\BD Imobiliare\Imobiliare\Imobiliare\bin\Debug\Imobiliare.exe
+D:\Development\BD Imobiliare\Imobiliare\Imobiliare\bin\Debug\Imobiliare.pdb
+D:\Development\BD Imobiliare\Imobiliare\Imobiliare\obj\Debug\Imobiliare.csprojAssemblyReference.cache
+D:\Development\BD Imobiliare\Imobiliare\Imobiliare\obj\Debug\Imobiliare.Login.resources
+D:\Development\BD Imobiliare\Imobiliare\Imobiliare\obj\Debug\Imobiliare.Properties.Resources.resources
+D:\Development\BD Imobiliare\Imobiliare\Imobiliare\obj\Debug\Imobiliare.csproj.GenerateResource.cache
+D:\Development\BD Imobiliare\Imobiliare\Imobiliare\obj\Debug\Imobiliare.csproj.CoreCompileInputs.cache
+D:\Development\BD Imobiliare\Imobiliare\Imobiliare\obj\Debug\Imobiliare.exe
+D:\Development\BD Imobiliare\Imobiliare\Imobiliare\obj\Debug\Imobiliare.pdb
+D:\Development\BD Imobiliare\Imobiliare\Imobiliare\obj\Debug\Imobiliare.Register.resources
+D:\Development\BD Imobiliare\Imobiliare\Imobiliare\obj\Debug\Imobiliare.User.resources
