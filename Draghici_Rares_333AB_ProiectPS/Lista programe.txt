@@ -1,0 +1,7 @@
+-- Faza1.m, ..., Faza5.m -> Contin rezolvarile pentru fiecare faza a proiectului
+-- lanzcos.m -> genereaza fereastra Lanzcos
+-- maxDeltas.m -> returneaza abaterile deltaP si deltaS ale unui filtru
+-- getFilter.m -> returneaza un filtru in functie de argumentele specificate
+-- findFilterRestrict.m -> realizeaza o cautare brute-force a filtrului optim pentru tolerantele specificate
+-- findFilterNonstandard.m -> realizeaza o cautare brute-force a filtrului optim pentru tolerantele specificate
+                           -> utilizeaza filtrul generat pornind de la raspunsul ideal
